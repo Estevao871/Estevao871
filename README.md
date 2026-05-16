@@ -97,9 +97,9 @@ Repositório dedicado a testes, conceitos e aprendizado contínuo em tecnologia.
 # 📈 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estevao871&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevao871&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ Repositório dedicado a testes, conceitos e aprendizado contínuo em tecnologia.
 # 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Estevao871&theme=tokyonight"/>
 </p>
 
 ---
