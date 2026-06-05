@@ -1,7 +1,7 @@
 # Olá, eu sou Estêvão 👋
 
 ```txt
-Backend Developer • Java • Spring Boot • Engenharia + Tecnologia
+Backend Developer • Java • Spring Boot • Engenharia + Tecnologia + Angular
 ```
 
 💻 Desenvolvedor focado em Backend com Java  
